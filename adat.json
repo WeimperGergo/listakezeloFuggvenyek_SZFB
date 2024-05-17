@@ -1,0 +1,41 @@
+{
+  "emberekLISTA": [
+    {
+      "id": "de2c",
+      "nev": "Juli",
+      "kor": 33,
+      "nem": false
+    },
+    {
+      "id": "de3c",
+      "nev": "Géza",
+      "kor": 13,
+      "nem": true
+    },
+    {
+      "id": "de4c",
+      "nev": "Ádám",
+      "kor": 13,
+      "nem": true
+    },
+    {
+      "id": "de5c",
+      "nev": "Béla",
+      "kor": 133,
+      "nem": true
+    },
+    {
+      "id": "de6c",
+      "kor": "40",
+      "nev": "Vali Doldal",
+      "nem": "true"
+    },
+    {
+      "id": "964c",
+      "kor": "40",
+      "nev": "Besenyő Pistabá",
+      "nem": "true"
+    }
+  ],
+  "szallitasiAdatokLista": []
+}
